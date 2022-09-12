@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap');
+
+
+body {
+    background-color: #d5def6;
+    color: rgb(73, 4, 50);
+    margin: 40px 0 40px 20px;
+    font-family: Montserrat, sans-serif;
+}
+.main-title {
+    margin: 120px 0 60px 12vw;
+}
+.title {
+    margin: 60px 0 10px 8vw;
+}
+.section {
+    margin: 10px 20vw 20px 10vw;
+    padding: 5px;
+    line-height: 2em;
+}
+.goals {
+    margin-left: 150px;
+}
+.subtitle {
+    margin: 50px 20px 10px 10vw;
+    padding: 5px;
+}
+.getcode {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto 40px;
+    padding: 10px;
+    text-decoration: none;
+    background-color: darkcyan;
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+}
+.getcode a {
+    text-decoration: none;
+    color:aliceblue;
+}
+.palette {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.palette__colour {
+    height: 40px;
+    width: 40px;
+    border: 1px solid #424242
+}
+.colour1 {
+    background-color: #07072c;
+}
+.colour2 {
+    background-color: #d5def6;
+}
+.colour3 {
+    background-color: #daecf3;
+}
+.colour4 {
+    background-color: #697894;
+}
