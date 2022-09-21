@@ -40,7 +40,7 @@ header {
 .logo {
     width: 70px;
     height: 70px;
-    background-image: url(img/vportrait.png);
+    background-image: url(img/vportrait.webp);
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
@@ -265,10 +265,10 @@ background-image: url(img/portfolio.png);
 .js {
     height: 80px;
     width: 80px;
-    background-image: url(img/js2.png);
+    background-image: url(img/js2.webp);
 }
 .sass {
-    background-image: url(img/sass4.png);
+    background-image: url(img/sass4.webp);
 }
 .react {
     background-image: url(img/logo-react.png);
@@ -281,7 +281,7 @@ background-image: url(img/portfolio.png);
 .illustrator {
     height: 70px;
     width: 70px;
-    background-image: url(img/illustrator-Logo-500x283.png);
+    background-image: url(img/illustrator-Logo-500x283.webp);
 }
 
 .form {
@@ -385,16 +385,16 @@ background-image: url(img/portfolio.png);
     margin: 5px 5px 40px;
 }
 .linkedin {
-    background-image: url(img/linkedin-logo.png);
+    background-image: url(img/linkedin-logo.webp);
 }
 .github {
-    background-image: url(img/logo-GitHub3.png);
+    background-image: url(img/logo-GitHub3.webp);
 }
 .discord {
     background-image: url(img/discord-logo.png);
 }
 .twitter {
-    background-image: url(img/twitter.png);
+    background-image: url(img/twitter.webp);
 }
 .menu {
     display: none;
