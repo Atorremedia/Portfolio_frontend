@@ -147,7 +147,7 @@ side {
 .photo-container {
     position: sticky;
     top: 300px;
-    background-image: url(img/august.webp);
+    background-image: url(img/auguste.png);
     background-size: 80%;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -244,23 +244,23 @@ footer {
     background-size: cover;
 }
 .right1 {
-background-image: url(img/tvetprev.webp);
+background-image: url(img/tvetprev.png);
 }
 .right2 {
-background-image: url(img/quizprev.webp);
+background-image: url(img/quizprev.png);
 }
 .right3 {
-background-image: url(img/portfolio.webp);
+background-image: url(img/portfolio.png);
 }
 .html {
     height: 80px;
     width: 80px;
-    background-image: url(img/html2.webp);
+    background-image: url(img/html2.png);
 }
 .css {
     height: 80px;
     width: 80px;
-    background-image: url(img/css2.webp);
+    background-image: url(img/css2.png);
 }
 .js {
     height: 80px;
@@ -271,12 +271,12 @@ background-image: url(img/portfolio.webp);
     background-image: url(img/sass4.webp);
 }
 .react {
-    background-image: url(img/logo-react.webp);
+    background-image: url(img/logo-react.png);
 }
 .photoshop {
     height: 70px;
     width: 70px;
-    background-image: url(img/photoshop.webp);
+    background-image: url(img/photoshop.png);
 }
 .illustrator {
     height: 70px;
@@ -391,7 +391,7 @@ background-image: url(img/portfolio.webp);
     background-image: url(img/logo-GitHub3.webp);
 }
 .discord {
-    background-image: url(img/discord-logo.webp);
+    background-image: url(img/discord-logo.png);
 }
 .twitter {
     background-image: url(img/twitter.webp);

@@ -40,7 +40,7 @@ header {
 .logo {
     width: 70px;
     height: 70px;
-    background-image: url(img/vportrait.png);
+    background-image: url(img/vportrait.webp);
     background-position: center;
     background-size:contain;
     background-repeat: no-repeat;
@@ -101,15 +101,15 @@ main {
 }
 
 .layer0 {
-    background-image: url(./img/layer1.png);
+    background-image: url(./img/layer1.webp);
     top: 5vh;
 }
 .layer1 {
-    background-image: url(./img/layer2.png);
+    background-image: url(./img/layer2.webp);
     top: 8vh;
 }
 .layer2 {
-    background-image: url(./img/layer3.png);
+    background-image: url(./img/layer3.webp);
     top: 16vh;
 }
 .balloon2 {
@@ -120,12 +120,12 @@ main {
     left: 60vw;
 }
 .layer3 {
-    background-image: url(./img/layer5.png);
+    background-image: url(./img/layer5.webp);
     height: 170%;
     top: 8vh;
 }
 .layer5 {
-    background-image: url(./img/layer6.png);
+    background-image: url(./img/layer6.webp);
     filter: blur(1px);
     top: 18vh;
     height: 150%;
@@ -220,7 +220,7 @@ a {
     width: 20%;
 }
 .photo-container {
-    background-image: url(img/auguste.png);
+    background-image: url(img/august.webp);
     background-size: 90%;
     background-position: center;
     background-repeat: no-repeat;
@@ -327,54 +327,54 @@ footer {
     background-color:aquamarine;
 }
 .right0 {
-    background-image: url(img/shop.png);
+    background-image: url(img/shop.webp);
 }
 .right1 {
-    background-image: url(img/tvetprev.png);
+    background-image: url(img/tvetprev.webp);
 }
 .right2 {
-    background-image: url(img/quizprev.png);
+    background-image: url(img/quizprev.webp);
     background-size: 150%;
     background-repeat: no-repeat;
 }
 .right3 {
-background-image: url(img/portfolio.png);
+background-image: url(img/portfolio.webp);
 }
 .html {
     height: 80px;
     width: 80px;
-    background-image: url(img/html2.png);
+    background-image: url(img/html2.webp);
 }
 .css {
     height: 80px;
     width: 80px;
-    background-image: url(img/css2.png);
+    background-image: url(img/css2.webp);
 }
 .js {
     height: 80px;
     width: 80px;
-    background-image: url(img/js2.png);
+    background-image: url(img/js2.webp);
 }
 .sass {
-    background-image: url(img/sass4.png);
+    background-image: url(img/sass4.webp);
 }
 .react {
-    background-image: url(img/logo-react.png);
+    background-image: url(img/logo-react.webp);
 }
 .git {
     height: 75px;
     width: 75px;
-    background-image: url(img/git.png);
+    background-image: url(img/git.webp);
 }
 .photoshop {
     height: 70px;
     width: 70px;
-    background-image: url(img/photoshop.png);
+    background-image: url(img/photoshop.webp);
 }
 .illustrator {
     height: 70px;
     width: 70px;
-    background-image: url(img/illustrator-Logo-500x283.png);
+    background-image: url(img/illustrator-Logo-500x283.webp);
 }
 
 .form {
@@ -478,16 +478,16 @@ background-image: url(img/portfolio.png);
     margin: 5px 5px 40px;
 }
 .linkedin {
-    background-image: url(img/linkedin-logo.png);
+    background-image: url(img/linkedin-logo.webp);
 }
 .github {
-    background-image: url(img/logo-GitHub3.png);
+    background-image: url(img/logo-GitHub3.webp);
 }
 .discord {
-    background-image: url(img/discord-logo.png);
+    background-image: url(img/discord-logo.webp);
 }
 .twitter {
-    background-image: url(img/twitter.png);
+    background-image: url(img/twitter.webp);
 }
 .menu {
     display: none;
