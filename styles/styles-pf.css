@@ -11,6 +11,7 @@ body {
     background-color: #daecf3;
     /* background: radial-gradient(circle, #85f5fe 0%, rgba(109,109,199,1) 55%, rgba(8,26,132,1) 99%); */
     font-family: Montserrat, sans-serif;
+    overflow: hidden;
 }
 header {
     background-color: #07072c;
