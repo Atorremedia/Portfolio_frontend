@@ -252,19 +252,19 @@ a.activelang {
 }
 #car1 {
   flex-direction: row-reverse;
-  background-image: url(../img/vet5.jpg);
+  background-image: url(../img/vet5.webp);
 }
 .carroussel-button {
   text-decoration: none;
 }
 #car2 {
   flex-direction: column-reverse;
-  background-image: url(../img/vet4.jpg);
+  background-image: url(../img/vet4.webp);
 }
 
 #car3 {
   flex-direction: row;
-  background-image: url(../img/vet3.jpg);
+  background-image: url(../img/vet3.webp);
 }
 
 .square {
@@ -465,7 +465,7 @@ footer {
   margin: 0;
 }
 .logofooter {
-  background-image: url(../img/logonegt.png);
+  background-image: url(../img/logonegt.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
