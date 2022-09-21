@@ -469,26 +469,15 @@ background-image: url(img/portfolio.webp);
     justify-content: center;
     align-items: center;
 }
+.media-title {
+    font-size: 1.8rem;
+}
 .media-logo {
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
     width: 50px;
     height: 50px;
     margin: 5px 5px 40px;
 }
-.linkedin {
-    background-image: url(img/linkedin-logo.webp);
-}
-.github {
-    background-image: url(img/logo-GitHub3.webp);
-}
-.discord {
-    background-image: url(img/discord-logo.webp);
-}
-.twitter {
-    background-image: url(img/twitter.webp);
-}
+
 .menu {
     display: none;
     flex-direction: column;
@@ -541,19 +530,6 @@ background-image: url(img/portfolio.webp);
     font-weight: 800;
     height: 100%;
 }
-.arrow-container {
-    background-image: url(img/arrow1.png);
-    display: block;
-    height: 40px;
-    width: 100px;
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: absolute;
-    top: 600px;
-    right: 100px;
-    z-index:60;
-}
 svg .svg-arrow-1 {
     stroke-dashoffset: 365.2995910644531px;
     stroke-dasharray: 365.2995910644531px;
@@ -562,9 +538,8 @@ svg .svg-arrow-1 {
                           fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s;
             transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0s,
                   fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s;
-  }
-  
-  svg.active .svg-arrow-1 {
+}
+svg.active .svg-arrow-1 {
     stroke-dashoffset: 0;
     fill: rgb(147, 229, 249);
   }
