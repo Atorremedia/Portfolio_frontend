@@ -25,6 +25,7 @@ header {
   top: -40px;
   z-index: 100;
 }
+
 .logodiv {
   order: 2;
   position: relative;
@@ -38,10 +39,12 @@ header {
   box-sizing: border-box;
   transition: all 0.3s ease;
 }
+
 nav {
   display: flex;
   order: 3;
 }
+
 .logodown {
   background-position: 50% 100%;
   background-size: 120px;
@@ -122,11 +125,13 @@ nav {
   background-repeat: no-repeat;
   transition: all 0.3s ease;
 }
+
 .teldown {
   background-position: 50% 80%;
   background-size: 40px;
   transition: all 0.3s ease;
 }
+
 .languages {
   order: 2;
   margin-bottom: 3px;
@@ -146,13 +151,16 @@ nav {
   color: rgb(107, 107, 107);
   font-family: Arial, Helvetica, sans-serif;
 }
+
 .languages a:hover {
   color: rgb(73, 73, 73);
 }
+
 a.activelang {
   color: rgb(146, 146, 146);
   pointer-events: none;
 }
+
 .burguer {
   order: 5;
   width: 100px;
@@ -161,13 +169,16 @@ a.activelang {
   justify-content: center;
   align-items: center;
 }
+
 .burguer:hover {
   background-color: #52c0e7;
 }
+
 .burguerdown {
   justify-content: flex-end;
   padding-bottom: 5px;
 }
+
 .burg {
   height: 8px;
   width: 50px;
@@ -186,6 +197,7 @@ a.activelang {
   flex-direction: column;
   z-index: 25;
 }
+
 .menuli-over {
   height: 70px;
   width: 100%;
@@ -203,10 +215,12 @@ a.activelang {
 #menuover a {
   text-decoration: none;
 }
+
 .menuli-over:hover {
   background-color: #8fa7bd;
   color: #443742;
 }
+
 .isopen {
   font-size: smaller;
   order: 5;
@@ -214,6 +228,7 @@ a.activelang {
   text-align: center;
   margin-top: 5px;
 }
+
 .carrousel {
   width: 100%;
   height: 420px;
@@ -228,6 +243,7 @@ a.activelang {
   justify-content: flex-start;
   align-items: center;
 }
+
 .big {
   height: 380px;
   border-radius: 25px;
@@ -239,6 +255,7 @@ a.activelang {
   justify-content: flex-start;
   margin-right: auto;
 }
+
 .small {
   width: 33.33%;
   overflow: hidden;
@@ -250,13 +267,16 @@ a.activelang {
   padding: 5px;
   display: flex;
 }
+
 #car1 {
   flex-direction: row-reverse;
   background-image: url(../img/vet5.webp);
 }
+
 .carroussel-button {
   text-decoration: none;
 }
+
 #car2 {
   flex-direction: column-reverse;
   background-image: url(../img/vet4.webp);
@@ -281,39 +301,47 @@ a.activelang {
   line-height: 2em;
   box-shadow: 0 0 10px black;
 }
+
 .button {
   height: 35px;
   width: 150px;
   margin: 7px;
   background-color: #52c0e7;
 }
+
 .button p {
   font-size: small;
   font-weight: bold;
   color: #2a4f70;
   margin: 0;
 }
+
 .button:hover {
   background-color: #42596d;
   border: 2px solid rgb(71, 71, 71);
   outline: #9bd1e5 solid 3px;
   box-shadow: 0 0 15px black;
 }
+
 .button p:hover {
   color: white;
 }
+
 #sq1 {
   width: 170px;
   height: 135px;
 }
+
 #sq2 {
   width: 250px;
   height: 135px;
 }
+
 #sq3 {
   width: 300px;
   height: 135px;
 }
+
 .dotslist {
   width: 100px;
   padding: 0;
@@ -470,7 +498,7 @@ footer {
   background-repeat: no-repeat;
   background-size: contain;
   width: 200px;
-  height: 200px;
+  height: 80px;
   color: white;
   justify-content: center;
   align-items: center;
